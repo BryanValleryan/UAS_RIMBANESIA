@@ -3,11 +3,6 @@
   padding: 0;
 }
 
-@font-face {
-  font-family: "retro";
-  src: url("/assets/font/MedodicaRegular.otf");
-}
-
 body {
   width: 100vw;
   height: 100vh;
@@ -37,7 +32,7 @@ header {
 }
 
 header h1 {
-  font-family: "retro", cursive, sans-serif;
+  font-family: cursive, sans-serif;
   color: white;
   text-shadow: 0 2px 3px black;
 }
