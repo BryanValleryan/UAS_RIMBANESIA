@@ -37,7 +37,7 @@ header {
 }
 
 header h1 {
-  font-family: "retro";
+  font-family: "retro", cursive, sans-serif;
   color: white;
   text-shadow: 0 2px 3px black;
 }
